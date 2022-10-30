@@ -18,7 +18,7 @@ Use software to draw the FSM. PowerPoint, Keynote, or LiberOffice may be the mos
 label the diagram including states, transitions, and actions. See instructions for submission below.
 
 # Zeffit Implementation
-Implement the FSM designed above in the Zeffit template class provided below.  Make sure to implement every method 
+Implement the FSM designed above in the Zeffit template class provided.  Make sure to implement every method 
 provided with the class.
 
 ## 2. Designing and Implementing a FSM
